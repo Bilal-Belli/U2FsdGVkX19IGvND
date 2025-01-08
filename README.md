@@ -1,16 +1,20 @@
-# tp3
+# Quiz App Mobile (Version 3)
 
-tp3 iot
+> Une application mobile de quiz interactif permettant aux utilisateurs de créer des comptes, de connecter à leurs comptes, de créer des question dans des thématiques différents et de tester leurs connaissances sur différents thèmes. L'application propose une sélection de thèmes, un système de quiz à choix vrai/faux, et un calcul du score final.
 
-## Getting Started
+## Manuelle d'installation
+### Prérequis
+1. Flutter SDK (version 3.0 ou supérieure)
+2. Dart SDK
+3. Android Studio ou VS Code
+4. Émulateur Android/iOS ou appareil physique
 
-This project is a starting point for a Flutter application.
+### Installation
+1. Cloner le repository `git clone https://github.com/Bilal-Belli/U2FsdGVkX19IGvND.git` puis `cd U2FsdGVkX19IGvND`
+2. Installer les dépendances `flutter pub get`
+3. Lancer l'application `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<div align="center">
+  <video src='https://github.com/user-attachments/assets/d33e39bc-6580-4ec2-aeeb-9c98900ad879' width="180" />
+</div>
