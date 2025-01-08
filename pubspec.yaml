@@ -1,0 +1,36 @@
+name: tp3
+description: "tp3 iot"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  firebase_core: 3.9.0
+  firebase_auth: 5.3.4
+  cloud_firestore: 5.6.0
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  audioplayers: ^6.1.0
+  cloudinary_flutter: ^1.0.0
+  cloudinary_url_gen: ^1.0.0
+  cloudinary_public: ^0.23.1
+  flutter_launcher_icons: ^0.13.1
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/quiz.png"
+flutter:
+  uses-material-design: true

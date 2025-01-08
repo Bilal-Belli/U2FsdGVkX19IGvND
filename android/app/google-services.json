@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30311982631",
+    "project_id": "tp3-flutter-firebase-bc426",
+    "storage_bucket": "tp3-flutter-firebase-bc426.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30311982631:android:70f7d879a3758b65e2d002",
+        "android_client_info": {
+          "package_name": "m2.iot.tp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0Rtq2WbX56cu8dmschpJZ0D65418Gqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

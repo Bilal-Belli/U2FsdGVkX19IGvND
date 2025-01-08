@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tp3-flutter-firebase-27d12",
+    "tp3": "tp3-flutter-firebase-27d12",
+    "quiz-app-tp3": "quiz-app-tp3"
+  },
+  "targets": {},
+  "etags": {}
+}
